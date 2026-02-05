@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1770264085.66513 "c:/Users/Usuario PC/Desktop/Tarea1/plantilla_tareas/main.tex" "build/main.pdf" "main" 1770264089.96658 0
+["pdflatex"] 1770264367.13853 "c:/Users/Usuario PC/Desktop/Tarea1/plantilla_tareas/main.tex" "build/main.pdf" "main" 1770264375.21577 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
@@ -21,6 +21,7 @@
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb" 1256929440 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb" 1256929440 116427 4909e80035dae5d5a4ec2b5ddd9649dd ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb" 1256929440 119235 05e5c8d6d60439433e50047898c2c0e0 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb" 1256929440 113634 9384aebdf26f9881e046a4b5574566db ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty" 1734114575 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty" 1734114575 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -56,12 +57,12 @@
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Usuario PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769569652 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Usuario PC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769569891 13323478 8c54827a2e2fb7eb601ba1d47588d647 ""
-  "build/main.aux" 1770264089 842 eaf2032d4729be63a60f43e17ad15c12 "pdflatex"
+  "build/main.aux" 1770264372 842 b9007724e5da2faa1f92d0770876cea1 "pdflatex"
   "c:/Users/Usuario" 1696265195 16390 fec3a83b05508d31e7cddd94a468cf51 ""
-  "c:/Users/Usuario PC/Desktop/Tarea1/plantilla_tareas/main.tex" 1770264071 1946 9418a173b4ef859cb89ed0a18d932b64 ""
+  "c:/Users/Usuario PC/Desktop/Tarea1/plantilla_tareas/main.tex" 1770264358 3035 4894c98ad084565ab40bb0bc133ff6e0 ""
   "img/logo_ecfm.jpg" 1770263821 7443 f7cae53f39482af9b2749e2d999e73c8 ""
   "img/logo_usac.jpeg" 1770263821 14142 2c4c6a6e54916582949661327ce9eef4 ""
-  "main.tex" 1770264071 1946 9418a173b4ef859cb89ed0a18d932b64 ""
+  "main.tex" 1770264358 3035 4894c98ad084565ab40bb0bc133ff6e0 ""
   (generated)
   "build/main.aux"
   "build/main.log"

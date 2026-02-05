@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.27)  4 FEB 2026 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.27)  4 FEB 2026 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -293,35 +293,30 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-
- []
-
-
 Overfull \hbox (6.0pt too wide) in paragraph at lines 70--80
 [][][][][][] 
  []
 
 [1
 
-{C:/Users/Usuario PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./img/logo_usac.jpeg> <./img/logo_ecfm.jpg>] (c:\Users\Usuario PC\Desktop\Tarea1\plantilla_tareas\build\main.aux)
+{C:/Users/Usuario PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./img/logo_usac.jpeg> <./img/logo_ecfm.jpg>] [2] (c:\Users\Usuario PC\Desktop\Tarea1\plantilla_tareas\build\main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5079 strings out of 467870
- 82120 string characters out of 5428405
- 529895 words of memory out of 5000000
+ 5089 strings out of 467870
+ 82224 string characters out of 5428405
+ 531895 words of memory out of 5000000
  33880 multiletter control sequences out of 15000+600000
- 662230 words of font info for 79 fonts, out of 8000000 for 9000
+ 662685 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,1055b,203s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on "c:\Users\Usuario PC\Desktop\Tarea1\plantilla_tareas\build\main.pdf" (1 page, 105644 bytes).
+<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+Output written on "c:\Users\Usuario PC\Desktop\Tarea1\plantilla_tareas\build\main.pdf" (2 pages, 137017 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  20491 words of extra memory for PDF output out of 20736 (max. 10000000)
 
